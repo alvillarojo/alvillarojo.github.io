@@ -334,13 +334,6 @@ img.circle
 /* end portfolio */
 
 /* start contact */
-
-#contact
-	{
-		background: url('../images/coffee-laptop.jpg');
-		backgroun-position:center;
-		background-size:cover;
-	}
 #contact address
     {
       padding-bottom: 18px;
