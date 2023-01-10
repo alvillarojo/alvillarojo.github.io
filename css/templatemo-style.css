@@ -335,6 +335,11 @@ img.circle
 
 /* start contact */
 
+#contact
+	{
+		background: url('../images/coffee-laptop.jpg');
+	}
+
 #contact address
     {
       padding-bottom: 18px;
