@@ -341,10 +341,6 @@ img.circle
 		backgroun-position:center;
 		background-size:cover;
 	}
-.image-overlay
-	{
-		background: rgba(0, 0, 0, 0.8);
-	}
 #contact address
     {
       padding-bottom: 18px;
