@@ -36,9 +36,9 @@ body
 #portfolio .fp-slide,
 #portfolio .fp-tableCell,
 
-#footer,
-#footer .fp-slide,
-#footer .fp-tableCell
+footer,
+footer .fp-slide,
+footer .fp-tableCell
 {
     height: auto !important;
 }
