@@ -372,7 +372,7 @@ img.circle
     }
 #contact input[type="submit"]
     {
-        background: #01B9DF;
+        background: #ffffff;
         border: 2px solid transparent;
         color: #ffffff;
         font-weight: bold;
@@ -380,7 +380,7 @@ img.circle
     }
 #contact input[type="submit"]:hover
     {
-        background: #ffffff;
+        background: #01B9DF;
         color: #01B9DF;
     }
 /* end contact */
