@@ -372,16 +372,16 @@ img.circle
     }
 #contact input[type="submit"]
     {
-        background: #ffffff;
+        background: none;
         border: 2px solid transparent;
-        color: #ffffff;
+        color: #01B9DF;
         font-weight: bold;
         transition: all 0.4s ease-in-out;
     }
 #contact input[type="submit"]:hover
     {
         background: #01B9DF;
-        color: #01B9DF;
+        color: #fff;
     }
 /* end contact */
 
