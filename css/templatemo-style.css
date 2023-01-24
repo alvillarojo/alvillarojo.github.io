@@ -372,7 +372,7 @@ img.circle
     }
 #contact input[type="submit"]
     {
-        background: none;
+        background: #fff;
         border: 2px solid transparent;
         color: #01B9DF;
         font-weight: bold;
