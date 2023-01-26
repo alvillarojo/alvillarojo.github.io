@@ -171,7 +171,8 @@ h1,h2,h3,h4,h5
 /* start home */       
 #home
 	{
-        background: url('../images/pexels-fox-1038916.jpg');	
+        background-image: url('../images/pexels-fox-1038916.jpg');	
+		background-color:rgba(0,0,0,0.6);
         background-size: cover;
         background-repeat: no-repeat;
         padding-top: 120px;
