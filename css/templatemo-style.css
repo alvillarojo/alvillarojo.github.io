@@ -48,6 +48,7 @@ footer .fp-tableCell
 /* start all heading */
 h1,h2,h3,h4,h5
     {
+		font-family: 'Archivo Black', sans-serif;
         color: #ffffff;
         font-weight: bold;
     }
