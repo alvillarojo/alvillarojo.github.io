@@ -185,6 +185,7 @@ img.circle
 	}
 #home h1
     {
+		font-family:'Archivo Black';
         border: 2px solid #fff;
         color: #fff;
         display: inline-block;
